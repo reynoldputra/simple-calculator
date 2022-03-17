@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+
+.calculator{
+    width: 200px;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.calculator-screen{
+    width: 98%;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.calculator-keys{
+    width: 200px;
+    margin: 0;
+}
+
+.row{
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+.button{
+    width: 25%;
+    margin: 0;
+    height: 50px;
+}
+
+.operator {
+    width: 25%;
+    height: 50px;
+}
+
+.sign {
+    width: 25%;
+    height: 50px;
+}
+
+.equal {
+    width: 25%;
+    height: 50px;
+}
+
+.all-clear, .zero{
+    width: 50%;
+    height: 50px;
+}
+
